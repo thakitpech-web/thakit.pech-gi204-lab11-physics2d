@@ -445,7 +445,7 @@ GameObject:
   - component: {fileID: 810428811}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1558,7 +1558,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b96a760e8b66d52408ad5fe6eabafa39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMoveMent
-  Speed: 2
+  Speed: 10
   JumpForce: 10
   IsJump: 0
 --- !u!1 &1947919665
